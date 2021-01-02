@@ -1,4 +1,5 @@
-﻿sdprint v1.4
+# sdprint v1.4
+## Standard Drucker unter Windows setzen
 
 benötigt wird Dotnet 2.0
 
